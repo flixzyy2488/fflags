@@ -2137,7 +2137,7 @@ namespace FFlags
     uintptr_t RbxStorageMigrationStats = 0x75E2178;
     uintptr_t ThumbnailTextureLoadTimeoutSecs = 0x703B49C;
     uintptr_t SimWorldTaskQueueParallelTasks = 0x7025B14;
-    uintptr_t PhysicsSenderMaxBandwidthBps = 0x7021E04;
+    uintptr_t PhysicsSenderMaxBandwidthBps = 0x709CE30;
     uintptr_t GraphicsOptimizationModeMinFrameTimeTargetMs = 0x702C604;
     uintptr_t AnalyticsServiceFiredEventsBudgetBasePerMinute = 0x7025830;
     uintptr_t RenderEnableLateResourceBindOrbis = 0x75C5188;
