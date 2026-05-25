@@ -5373,7 +5373,7 @@ namespace FFlags
     uintptr_t IXPGraphicsOptimizationModeControlName = 0x70FACC8;
     uintptr_t ThumbnailTextureLoadTimeoutSecs = 0x70C0570;
     uintptr_t SimWorldTaskQueueParallelTasks = 0x70DE71C;
-    uintptr_t PhysicsSenderMaxBandwidthBps = 0x70B940C;
+    uintptr_t PhysicsSenderMaxBandwidthBps = 0x70B740C;
     uintptr_t GraphicsOptimizationModeMinFrameTimeTargetMs = 0x70FAC14;
     uintptr_t GraphicsOptimizationModeQualityBiasPercent = 0x7A05578;
     uintptr_t ScreenshotCaptureRetrieveEventThrottleHundrethsPercent = 0x7716D84;
